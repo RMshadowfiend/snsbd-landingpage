@@ -1,0 +1,62 @@
+body img{
+	max-width: 100%;
+}
+body header{
+	/* background-image: url(../images/4.jpg); 
+	background-size: cover;
+	height: 111px;
+	padding: 10px 0px 0px;*/
+	background-color: #250505;
+	padding: 0px 198px;
+}
+body header .navbar{
+
+}
+body header .navbar .fulllolgo img{
+
+	height: 76px;
+	width: auto;
+	padding: 4px 0px 0px;
+}
+body header .navbar img {
+	width: 70px;
+}
+body header .navbar li a{
+	color: #f9a154;
+	font-size: 20px;
+	font-weight: 500;
+}
+body header .navbar button .searchbtn svg{
+	height: 28px;
+	width: 28px;
+}
+.container{
+	width: 1500px;
+}
+.btn-outline-success{
+	color: #f9a154;
+    border-color: #28a745;
+}
+.nav-link.disabled {
+	color: #0ad6a7;
+}
+.checkoutbtn{
+	font-size: 20px;
+	font-weight: 500;
+	color: #f9a154;
+}
+.checkoutbtn:hover{
+	background-color:	#0ad6a7;
+}
+.searchbtn{
+	color: white;
+}
+.carousel-inner img{
+}
+.navbar a:hover{
+	color: green;
+}
+body header .navbar img {
+	width: 70px;
+}
+
